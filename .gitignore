@@ -24,6 +24,12 @@
 *.lai
 *.la
 *.a
+aa
+a
+inp
+out
+input
+onutput
 *.lib
 
 # Executables
