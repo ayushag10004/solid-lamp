@@ -39,3 +39,5 @@ onutput
 *.exe
 *.out
 *.app
+
+.vscode
