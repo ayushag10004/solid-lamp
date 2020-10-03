@@ -1,0 +1,1143 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"include"
+			],
+			[
+				"qu",
+				"quantity_used"
+			],
+			[
+				"qua",
+				"quantity_used"
+			],
+			[
+				"get",
+				"getPrice"
+			],
+			[
+				"orde",
+				"order_id"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"sel",
+				"SellOrder"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"oe",
+				"order_id"
+			],
+			[
+				"Sell",
+				"SellOrder"
+			],
+			[
+				"add",
+				"addSellOrder"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"st",
+				"stock_str"
+			],
+			[
+				"Tra",
+				"Transaction"
+			],
+			[
+				"stoc",
+				"stock_id"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"srt",
+				"string"
+			],
+			[
+				"Sol",
+				"Solution"
+			],
+			[
+				"threa",
+				"thread_cnt"
+			],
+			[
+				"read",
+				"ready_jobs"
+			],
+			[
+				"db",
+				"db_status"
+			],
+			[
+				"db_",
+				"db_jobs_status"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"dev",
+				"device_group_response"
+			],
+			[
+				"record",
+				"record_cnt"
+			],
+			[
+				"ins",
+				"instance_group_configurations"
+			],
+			[
+				"arr",
+				"arrival_time"
+			],
+			[
+				"tim",
+				"time_consumed"
+			],
+			[
+				"time",
+				"time_consumed"
+			],
+			[
+				"curren",
+				"current_time"
+			],
+			[
+				"curre",
+				"current_time"
+			],
+			[
+				"is_",
+				"is_webapps"
+			],
+			[
+				"jo",
+				"job_id"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"sanit",
+				"sanitize_system"
+			],
+			[
+				"san",
+				"sanitize_system"
+			],
+			[
+				"exce",
+				"except"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"api",
+				"api_response"
+			],
+			[
+				"job",
+				"job_response"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"get_confi",
+				"get_configurations"
+			],
+			[
+				"config_",
+				"config_record"
+			],
+			[
+				"insta",
+				"instance_group"
+			],
+			[
+				"confi",
+				"configuration_record"
+			],
+			[
+				"instance",
+				"instance_group_id"
+			],
+			[
+				"entity",
+				"entity_id"
+			],
+			[
+				"In",
+				"InstanceGroupRequestResource"
+			],
+			[
+				"pending_",
+				"pending_job_record"
+			],
+			[
+				"get_jo",
+				"get_job_start_time"
+			],
+			[
+				"mp_",
+				"mp_db_manager"
+			],
+			[
+				"INTER",
+				"INTERNAL_API_TIMEOUT"
+			],
+			[
+				"job_",
+				"job_record"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"sleep",
+				"sleep_time"
+			],
+			[
+				"requea",
+				"request_headers"
+			],
+			[
+				"request",
+				"request_headers"
+			],
+			[
+				"req",
+				"request_headers"
+			],
+			[
+				"roll",
+				"rollback_session"
+			],
+			[
+				"check",
+				"check_config_for_inprogress"
+			],
+			[
+				"rest",
+				"restricted_config_ids"
+			],
+			[
+				"pending",
+				"pending_job_record"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"use",
+				"use_existing_session"
+			],
+			[
+				"filter",
+				"filter_by"
+			],
+			[
+				"conf",
+				"config_ids"
+			],
+			[
+				"had",
+				"had_webapps_connector"
+			],
+			[
+				"che",
+				"check_for_scheduling_request"
+			],
+			[
+				"curr",
+				"current_memory"
+			],
+			[
+				"QUE",
+				"QUEUED"
+			],
+			[
+				"cure",
+				"current_memory"
+			],
+			[
+				"li",
+				"line_number"
+			],
+			[
+				"we",
+				"has_webapps_connector"
+			],
+			[
+				"has",
+				"has_webapps_connector"
+			],
+			[
+				"CFG",
+				"CFG_SVC_REQUEST_DECLINED_ERRORCODE"
+			],
+			[
+				"REQUES",
+				"CFG_SVC_REQUEST_DECLINED_ERRORMESSAGE"
+			],
+			[
+				"error_",
+				"error_code"
+			],
+			[
+				"err",
+				"errorcode"
+			],
+			[
+				"raise",
+				"raise_exception"
+			],
+			[
+				"ti",
+				"time_difference"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"queue",
+				"queued_cnt"
+			],
+			[
+				"top",
+				"top_queued_request_time"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"quue",
+				"queued_cnt"
+			],
+			[
+				"mp",
+				"mp_db_manager"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"request_",
+				"request_str"
+			],
+			[
+				"delete",
+				"delete_job"
+			],
+			[
+				"set",
+				"set_credentials"
+			],
+			[
+				"ADM",
+				"ADMClient"
+			],
+			[
+				"sess",
+				"Session"
+			],
+			[
+				"ad",
+				"adm_poll_log_file"
+			],
+			[
+				"cn",
+				"cnt_file"
+			],
+			[
+				"to",
+				"total_lines_in_mp_cfg_svc"
+			],
+			[
+				"lo",
+				"log_tracker_file"
+			],
+			[
+				"se",
+				"session_list"
+			],
+			[
+				"Queue",
+				"QUEUED"
+			],
+			[
+				"co",
+				"count_error"
+			],
+			[
+				"cou",
+				"count_total"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"internal",
+				"internal_call"
+			],
+			[
+				"up",
+				"up_connector"
+			],
+			[
+				"up_co",
+				"up_connectors"
+			],
+			[
+				"dele",
+				"delete_configuration"
+			],
+			[
+				"update",
+				"update_job_status"
+			],
+			[
+				"recordes",
+				"records_of_instance_group"
+			],
+			[
+				"instance_gro",
+				"instance_group_configurations"
+			],
+			[
+				"instance_gr",
+				"instance_group_id"
+			],
+			[
+				"hand",
+				"handle_create"
+			],
+			[
+				"re",
+				"request_resource"
+			],
+			[
+				"ap",
+				"api_response"
+			],
+			[
+				"reque",
+				"request_data_list"
+			],
+			[
+				"new",
+				"new_target_instance_ids"
+			],
+			[
+				"conne",
+				"connector_id"
+			],
+			[
+				"sb_ta",
+				"sb_target_instance_ids"
+			],
+			[
+				"pgres_f",
+				"pgres_filter_data"
+			],
+			[
+				"colu",
+				"column_filter"
+			],
+			[
+				"fil",
+				"filter_or_data"
+			],
+			[
+				"pgres",
+				"pgres_relational_oplist"
+			],
+			[
+				"UD",
+				"UDB_data"
+			],
+			[
+				"configuration_",
+				"configuration_records"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"Cfg",
+				"CfgConfigDBStore"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"mas",
+				"mas_instance_groups"
+			],
+			[
+				"get_conn",
+				"get_connectors_by_instancegroup"
+			],
+			[
+				"un",
+				"unreachable_connectors"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exchange.cpp",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 256,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "output.txt",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stock.h",
+			"settings":
+			{
+				"buffer_size": 1944,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stock_exchange.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "transaction.h",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sellorder.h",
+			"settings":
+			{
+				"buffer_size": 715,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: snip",
+				"Snippet: Enumeration"
+			],
+			[
+				"colorsubli",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ayush/code/stock_exchange"
+	],
+	"file_history":
+	[
+		"/C/Users/ayush/code/stock.cpp",
+		"/C/Users/ayush/code/transaction.h",
+		"/C/Users/ayush/code/stock.h",
+		"/C/Users/ayush/code/sellorder.h",
+		"/C/Users/ayush/code/input.txt",
+		"/C/Users/ayush/code/check_oop.cpp",
+		"/C/Users/ayush/code/cf_578_e.cpp",
+		"/C/Users/ayush/code/cf_578_a.cpp",
+		"/C/Users/ayush/code/cf_578_b.cpp",
+		"/C/Users/ayush/code/cf_578_c.cpp",
+		"/C/Program Files/Sublime Text 3/cf_578.cpp",
+		"/C/Program Files/Sublime Text 3/user.py",
+		"/C/Users/ayush/code/cache.cpp",
+		"/C/Users/ayush/code/check.cpp",
+		"/D/ea sports cricket 2007 cricket 2015 patch pro/A2 Studios ICC CWC 2015 Patch/Read Me.txt",
+		"/D/ea sports cricket 2007 cricket 2015 patch pro/A2 Studios ICC CWC 2015 Patch/aa.py",
+		"/C/Users/ayush/code/qwsa.cpp",
+		"/C/Users/ayush/code/qq.py",
+		"/C/Users/ayush/code/qwe/qq.py",
+		"/C/Users/ayush/Desktop/aa.json",
+		"/C/Users/ayush/AppData/Local/Packages/Microsoft.Office.Desktop_8wekyb3d8bbwe/AC/INetCache/Content.Outlook/WFU177FP/cost optimization efforts -Aug_2.txt",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/mp_health#7.sh",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/mp_health.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/nsulfd/python/NSUlfd/Log.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/af_plugin/handlers/app_health_dashboard_details_handler.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/rules/make_rules_common.mk",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/conf/deployments.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/dp_config_service.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/conf/mp_deployments.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/msg_consumer.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/base_api_msg_callback.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/build/start_mp_cfgsvc.sh",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/__init__.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/adm_client.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/refresh_changes.py",
+		"/C/Users/ayush/AppData/Local/Packages/Microsoft.Office.Desktop_8wekyb3d8bbwe/AC/INetCache/Content.Outlook/W7TE1CSN/MAS_DOC",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/job_monitor#11.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/build/ptimer.sh",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/build/start_mp_cfgsvc#21.sh",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/log_tracker.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/__init__.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/aa.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/xs6_upgrade_files/hotfix.unsigned",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/framework/lmp/LMPAutoHandler.h",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/build/mp_cfgsvc_Dockerfile#21",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/conf/mp_deployments#18.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/base_const.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/base_db_manager.py",
+		"/C/Users/ayush/Desktop/Citrix_ML/burpattack_xxe",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/cfg_exception.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/cfg_errors.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/base_errors.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mp_db_manager.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mp_config_service.py",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mp_config_service#115.py",
+		"/C/Users/ayush/Desktop/mp_config_service.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/job_monitor.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/temp_mp_cfgsvc.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/base_service.py",
+		"/C/Users/ayush/Desktop/mp_db_manager.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/cc.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/adm_poll.py",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mp_config_service@=780931.py",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/adm_client@=780931.py",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/adm_poll@=780931.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/base_logger.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/dp_msg_consumer.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/start_mp_consumer.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/start_dp_consumer.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/base_config_service.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/base_entry.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/common/cnt_debug",
+		"/C/Users/ayush/AppData/Local/Temp/p4v/DESKTOP-JE271T3_tcp_sjcpperforce04.citrite.net_1666/depot/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mp_db_manager#26.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/config_service/app/cfgsvc/citrixnet/mgmt/cfgsvc/log_tracker.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/config_service/start_mp_cfgsvc.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/config_service/app/cfgsvc/citrixnet/mgmt/cfgsvc/adm_client.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mem_dump.sh",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/memory_dump.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/capture_memory.py",
+		"/C/Users/ayush/Documents/config_service_main/cfgsvc_in_MAS/app/cfgsvc/citrixnet/mgmt/cfgsvc/mp_db_manager.py",
+		"/C/Users/ayush/AppData/Local/Packages/Microsoft.Office.Desktop_8wekyb3d8bbwe/AC/INetCache/Content.Outlook/KR1WQEU1/mp_config_service.py",
+		"/C/Users/ayush/Documents/config_service_main/CloudServices/mgmt_services/config_service/src/main/python/citrixnet/mgmt/cfgsvc/temp_cfgsvc.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/start_cfgsvc.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/start_cfgsvc_injection.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/service/cfg_adm_client.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/api/cfg_masnitrorestapibuilder.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/mas_post.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/vm_post.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/vm_delete.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/vm_jobstatus.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/refresh.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/vm_refresh,sh.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/vm_put.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/database/cfg_dbmanager.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/common/cfg_environ.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/service/cfg_schema.py",
+		"/C/Users/ayush/AppData/Local/Packages/Microsoft.Office.Desktop_8wekyb3d8bbwe/AC/INetCache/Content.Outlook/0SG5N90J/MAS_DOC",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/service/cfg_config_service.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/framework/handlers/device_group_handler.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/db_commands",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/subsystems/service/ServiceHTTPRequestHandler.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/subsystems/service/ServiceHTTPRequestHandler.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/subsystems/service/ServiceHTTPRequestHandler.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/subsystems/service/ServiceHTTPRequestHandler.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/subsystems/control/ControlSubSystem.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/subsystems/control/ControlSubSystem.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/subsystems/control/ControlSubSystem.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/subsystems/control/ControlSubSystem.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/MPSBuild.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPRequestHandler.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPRequestHandler.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPRequestHandler.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPRequestHandler.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPClient.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPClient.h",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPClient.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/mps/usr.src/mps/framework/comm/http/MPSHTTPClient.cpp",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/Makefile_masagent",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/Makefile",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/nmx/Makefile",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/rs_121_MASvc/usr.src/sdx/nmx/Makefile_masagent",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/common/cfg_schemadef.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/service/cfg_base_service.py",
+		"/C/Users/ayush/Documents/config_service_main/config_service/src/main/python/citrixnet/mgmt/cfgsvc/mp_config_service.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/service/cfg_adm_poll.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/service/cfg_configdbstore.py",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/job.sh",
+		"/C/Users/ayush/Documents/config_service_main/depot/main/kamet_535_108_cfgsvc/usr.src/sdx/nmx/cfgsvc/src/cfgsvc/scripts/development/put.sh"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 648.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aapl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exchange.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "stock.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "stock_exchange.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "transaction.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "sellorder.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 210.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stock_exchange.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 331.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
