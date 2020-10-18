@@ -8,6 +8,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
+#define ld long double
 #define MOD 1000000007
 #define M(x) (x % MOD + MOD) % MOD
 #define _pb push_back
